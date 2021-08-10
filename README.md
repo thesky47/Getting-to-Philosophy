@@ -13,4 +13,5 @@ Stopping when reaching "Philosophy", a page with no links or a page that does no
 
 About Program:
 This program take a wikipedia page link and goes to first link in the main text until it reaches to Philosophy page.
+The program displays title of first link on the page and to the link.
 The Program also shows how many jumbs needed to reach end.
