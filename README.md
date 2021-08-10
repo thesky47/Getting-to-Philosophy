@@ -1,4 +1,4 @@
-# WikiGame
+# Getting to Philosophy
 This program crawls Wikipedia pages to reach Philosophy page
 
 Getting to Philosophy:
